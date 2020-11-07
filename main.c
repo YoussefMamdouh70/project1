@@ -3,7 +3,8 @@
 
 int main()
 { float x;
-float y;
+//
+int y;
 char z;
 
    char a='*';
